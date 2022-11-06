@@ -1,0 +1,24 @@
+{
+    "posts": [
+      {
+        "id": "9",
+        "caption": "nature",
+        "img_url": "https://i.ibb.co/WGn7jGr/godd.jpg"
+      },
+      {
+        "id": "5",
+        "caption": "nature",
+        "img_url": "https://i.ibb.co/vLLQs4h/image-download-04.jpg"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
